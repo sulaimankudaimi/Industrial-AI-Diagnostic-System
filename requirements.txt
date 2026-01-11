@@ -1,4 +1,6 @@
 tensorflow-cpu
 streamlit
-numpy
+librosa
 gdown
+matplotlib
+pillow
