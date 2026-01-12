@@ -23,7 +23,7 @@ st.write("") # مسافة
 
 # --- ربط الموديل من الدرايف ---
 # قمت باستخراج المعرف (ID) من الرابط الذي أرسلته
-MODEL_URL = 'https://drive.google.com/uc?id=1xghQcu2rDtb6Jp4pvGWs0QUcMJM7NFaE'
+MODEL_URL = 'https://drive.google.com/file/d/1xghQcu2rDtb6Jp4pvGWs0QUcMJM7NFaE/view?usp=drive_link'
 MODEL_PATH = 'audio_anomaly_model.h5'
 
 @st.cache_resource
